@@ -1,6 +1,6 @@
 # 🛒 Product Information System
 
-Sistem Informasi Inventaris Produk berbasis web sederhana yang dibangun menggunakan **PHP Native** tanpa *framework*. Proyek ini menerapkan konsep pemisahan komponen (*Separation of Concerns*) dan pengelolaan data produk ATK Kantor.
+Sistem Informasi Inventaris Produk berbasis web sederhana yang dibangun menggunakan **PHP Native** tanpa *framework*. Proyek ini menerapkan konsep pemisahan komponen (*Separation of Concerns*) dan pengelolaan data produk ATK.
 
 ## Fitur Utama
 
@@ -16,4 +16,4 @@ MINI-PROJECT/
 ├── README.md         # Dokumentasi proyek
 ├── functions.php     # Logika bisnis & fungsi bantuan
 ├── index.php         # Halaman utama tampilan inventaris
-└── products.php      # Penyimpanan data produk ATK Kantor
+└── products.php      # Penyimpanan data produk ATK
